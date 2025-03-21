@@ -2,6 +2,7 @@
    LED Blinking Control by Potentiometer
    Written by Everett & Keith Guilford
    Blink an LED at a rate set by the position of a potentiometer
+   Arduino is lost at school
 */
 const int potPin = 0; // select the input pin for the potentiometer
 const int ledPin = 5; // select the pin for the LED
